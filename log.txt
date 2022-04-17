@@ -1,0 +1,12 @@
+16/04/2022 23:06:04 - https://www.alura.com.br - online: true
+16/04/2022 23:06:04 - https://random-status-code.herokuapp.com - online: true
+16/04/2022 23:06:05 - https://www.caelum.com.br - online: true
+16/04/2022 23:06:05 - https://www.casadocodigo.com.br - online: true
+16/04/2022 23:06:07 - https://www.alura.com.br - online: true
+16/04/2022 23:06:08 - https://random-status-code.herokuapp.com - online: true
+16/04/2022 23:06:08 - https://www.caelum.com.br - online: true
+16/04/2022 23:06:08 - https://www.casadocodigo.com.br - online: true
+16/04/2022 23:06:11 - https://www.alura.com.br - online: true
+16/04/2022 23:06:11 - https://random-status-code.herokuapp.com - online: false
+16/04/2022 23:06:12 - https://www.caelum.com.br - online: true
+16/04/2022 23:06:12 - https://www.casadocodigo.com.br - online: true
